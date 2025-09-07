@@ -1,8 +1,7 @@
 <!-- Profile README for TechieSingh (Aditya Ranjan Singh) -->
 
-<h1 align="center">Hi, I'm Aditya Ranjan Singh 👋</h1>
+<h1 align="center">Hi, I'm Aditya Singh 👋</h1>
 <p align="center">
-  <a href="mailto:singh.adityara@northeastern.edu"><img src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail" /></a>
   <a href="https://linkedin.com/in/techiesingh"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/TechieSingh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
