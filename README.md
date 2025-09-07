@@ -65,8 +65,6 @@ Twilio SIP, LiveKit, REST APIs, OAuth 2.0, JWT
 ---
 
 ### 📫 Connect with Me
-
-- Email: [singh.adityara@northeastern.edu](mailto:singh.adityara@northeastern.edu)
 - LinkedIn: [linkedin.com/in/techiesingh](https://linkedin.com/in/techiesingh)
 - GitHub: [TechieSingh](https://github.com/TechieSingh)
 
